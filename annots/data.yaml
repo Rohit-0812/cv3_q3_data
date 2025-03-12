@@ -1,0 +1,14 @@
+nc: 8  # Number of classes
+names:
+  0: head
+  1: body
+  2: hair
+  3: hands
+  4: feet
+  5: background
+  6: accessory
+  7: clothing
+
+train: images/train
+val: images/val
+test: images/test
